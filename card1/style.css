@@ -1,0 +1,136 @@
+body{
+    background:#0D1A2D ;
+}
+
+
+.cd{
+    width: 280px;
+    height: 500px;
+    background-color: #15273f ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    box-shadow: 2px 2px 6px white;
+}
+.img1{
+width: 90%;
+position:absolute ;
+margin: 5%;
+
+
+}
+h1{
+    font-size: 1.5em;
+    color: white;
+}
+
+.p{
+    position: absolute;
+    top: 53%;
+    color: gray;
+    margin: 0 5%;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    color: aqua;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.g{
+    color: gray;
+    text-align: center;
+}
+.viu{
+    width: 15px;
+
+}
+.c{
+    border-top: solid gray 1px;
+   
+}
+
+.av{
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 50%;
+    
+}
+.x{
+   display: inline-block;
+}
+span{
+    color: white;
+}
+
+section {
+    background-color: hsl(217, 54%, 11%);
+    height: 100vh;
+    
+  }
+
+  .card {
+    width: 300px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 14px;
+  }
+
+  .card-foto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+  }
+
+  .image-principal {
+    border-radius: 14px;
+  }
+
+  .text-white {
+    color: #fff;
+    font-weight: 400;
+  }
+
+  .contenedor-dos {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .text-gray {
+    margin-top: 15px;
+    color: #fff;
+    opacity: 0.3;
+    font-weight: 300;
+  }
+
+  .contendor-detalle {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .text-eth {
+    color: hsl(178, 100%, 50%);
+  }
+
+  .text-reloj {
+    color: hsl(215, 51%, 70%);
+  }
+
+  .contenedor-autor {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; /
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .autor {
+    / border: solid; */
+    margin-left: 10px;
+  }

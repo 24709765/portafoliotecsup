@@ -114,7 +114,7 @@
   }
 
   .text-light {
-    color: #8695a4;
+    color: #1261b0;
   }
 
   hr {
@@ -126,7 +126,7 @@
   }
 
   .link-portafolio {
-    color: #000;
+    color: rgb(10, 208, 234);
     text-decoration: none;
     transition: 0.3s;
   }
